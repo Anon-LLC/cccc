@@ -1,5 +1,5 @@
 The Global Fraud Ecosystem
-
+Written by COle Robinson in 2025. Originally published on GitHub on 06/01/2025, this work is solely authored unless otherwise noted.
 
 
 # 
