@@ -1,4 +1,8 @@
-Written by Cole Robinson in 2025. Originally published on GitHub on 05/31/2025, this work is solely authored unless otherwise noted.
+© 2025 Cole Robinson. This work is protected under Title 17 of the United States Code (Copyright Law). All rights reserved.
+
+Unauthorized use, reproduction, or publication without explicit written permission from the author constitutes a violation of federal copyright law and may be subject to legal action.
+
+Original authorship established via timestamped version control and public repository publication (GitHub).
 
 
 
